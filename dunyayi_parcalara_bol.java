@@ -19,9 +19,9 @@ private void parselle() {
 
 
 
-//Örnek yuakrıdaki fonksşyın çalıştıktan soınra bu değerleri Firebase kayıt ediniz
+//Örnek yuakrıdaki fonksşyın çalıştıktan sonra bu değerleri Firebase kayıt ediniz.
 userInfo.put("user_latitude", latuint);
 userInfo.put("user_longitude", longuint);
 
 // bundan sonra bu integer kutu değerleri arasındaki ilişkileri görebilirsiniz. iki mesafe arasında kaç metre fark olduguna kadar bulabilirsiniz.
-// Aynı zamanda yukarıdaki metre değişkeninde ve eş zamanlı aşağıdaki * 0.1 çarpanı ile oynama yaparak dünyayı bölünebilecek kutu sayısını değiştirebilirsiniz. ( örnek 1km, 10 km gibi )
+// Aynı zamanda yukarıdaki metre değişkeninde ve eş zamanlı aşağıdaki * 0.1 çarpanı ile ters oynama yaparak dünyayı bölünebilecek kutu sayısını değiştirebilirsiniz. ( örnek 1km, 10 km gibi )
